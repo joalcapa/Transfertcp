@@ -6,11 +6,11 @@ Client and server application, file transfer and execution
 #### Clone repository
 
 `
-$ git clone git://github.com/joalcapa/transfertcp.git
+git clone git://github.com/joalcapa/transfertcp.git
 `
 
 `
-$ cd transfertcp
+cd transfertcp
 `
 
 ### Compilation of transfertcp
@@ -20,13 +20,13 @@ Compilation of the project, using the file containing the main method, in order 
 ### SERVER
 
 `
-$ javac transfertcp/Server.java
+javac transfertcp/Server.java
 `
 
 ### OR CLIENT
 
 `
-$ javac transfertcp/Cliente.java
+javac transfertcp/Cliente.java
 `
 
 ### Execute transfertcp
@@ -34,11 +34,11 @@ $ javac transfertcp/Cliente.java
 ### SERVER
 
 `
-$ java transfertcp/Server.java
+java transfertcp/Server.java
 `
 
 ### OR CLIENT
 
 `
-$ java transfertcp/Cliente.java
+java transfertcp/Cliente.java
 `
