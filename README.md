@@ -1,6 +1,8 @@
 # transfertcp
 Client and server application, file transfer and execution
 
+Transfertcp is an application that allows the connection between one or several clients with a server, established by the TCP protocol, in addition to the transfer of files, transfertcp also allows to execute the different formats of the same, for the windows platform, also adds a Player based on the popular JLayer library, so you must implement this tool in the java transfertcp project
+
 ![image transfertcp](https://dl.dropboxusercontent.com/s/6lsoowfaeikiyux/transfertcp.PNG?dl=0)
 
 #### Clone repository
